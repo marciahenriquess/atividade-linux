@@ -1,10 +1,23 @@
-<html>
-<title>Repositório criado com intuito de fazer a documentação explicando o processo de subir uma VM e instalar um servidor Oracle Linux na ultima versao disponível.<title>
-<body>
-A máquina virtual utilizada foi a VMBox.
-A última versão disponível se trata da 8.6, visto que a 9 está em sua fase beta.
+Repositório criado com intuito de fazer a documentação explicando o processo de subir uma VM e instalar um servidor Oracle Linux na ultima versao disponível.
 
-# V1
-Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
-</body>
-</html>
+obs1: A máquina virtual utilizada foi a VMBox.
+obs2: A última versão disponível do Linux se trata da 8.6.
+obs3: O SO se trata de um Linux em inglês sem interface gráfica.
+
+   V1
+* Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
+* Baixar a full ISO 8.6 em https://yum.oracle.com/oracle-linux-isos.html.
+
+   V1.1 
+Instalar a VirtualBox em sua máquina.
+
+   V1.2
+* Ir em "New".
+* Colocar um "Name" em sua máquina virtual, escolher o "Type" como "Linux", escolher o "Version" como "Oracle (64-bit).
+* Selecionar a quantidade de memória RAM para a sua máquina virtual.
+* Criar um disco virtual.
+* Selecionar o "VHD" criando assim um disco virtual.
+* Selecionar o "Dynamically allocated" criando assim o armazenamento do seu disco de forma dinamica.
+* Selecionar a Pasta e o Tamanho da sua máquina virtual (recomendado manter as configurações).
+
+  V1.3
