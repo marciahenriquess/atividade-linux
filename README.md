@@ -1,4 +1,5 @@
-# Versionamento da atividade do PB Compass.
+# Versionamento da atividade do PB Compass.  
+#### Repositório criado com intuito de fazer o versionamento da atividade do PB Compass. ####
 
 ## **V1**
 
