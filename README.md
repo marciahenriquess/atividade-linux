@@ -17,4 +17,4 @@ Iniciado a configuração de VLAN para BRIDGE na máquina virtual.
 Correção de alguns erros de digitação na configuração da placa de rede.
 ## V3.2
 Finalizado a configuração de VLAN para BRIDGE e ajustes necessários na máquina virtual.  
-Para ver as configurações modificadas vá em *atividade-linux/VLAN-para-BRIGDE*
+Para ver as configurações vá em *atividade-linux/VLAN-para-BRIGDE*
