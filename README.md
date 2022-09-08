@@ -1,6 +1,6 @@
 # Repositório criado com intuito de fazer o versionamento da atividade do PB Compass.
 
-<center>#V1<center>
+_#V1_
 
 #V1.1
 Iniciado a pesquisa dos tópicos para a aprensentação.
