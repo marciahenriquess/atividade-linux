@@ -14,5 +14,5 @@ Para ver passo a passo deste processo vá em *atividade-linux/instalacao-do-Linu
 # V3  
 Iniciado a configuração de VLAN para BRIDGE na máquina virtual.  
 ## V3.1  
-Finalizado a configuração de VLAN para BRIDGE e ajustes necessários na máquina virtual.
+Finalizado a configuração de VLAN para BRIDGE e ajustes necessários na máquina virtual.  
 Para ver as configurações modificadas vá em *atividade-linux/VLAN-para-BRIGDE*
