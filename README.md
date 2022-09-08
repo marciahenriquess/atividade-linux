@@ -3,10 +3,10 @@
 ## **V1**
 
 ### V1.1  
-Iniciado a pesquisa dos tópicos para a aprensentação.
+Iniciado a pesquisa dos tópicos para a aprensentação e inicio da montagem dos slides no PowerPoint.
 
 ### V1.2  
-Finalizado a pesquisa dos tópicos para a aprensentação e feito as correções necessárias.
+Finalizado a pesquisa dos tópicos para a aprensentação, montagem dos slides no PowerPoint e feito as correções necessárias.
 
 
 ## **V2**
