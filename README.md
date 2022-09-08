@@ -23,7 +23,7 @@ Iniciado a relação de confiança entre as máquinas.
 ## V4.1  
 Correção de  
 ## V4.2  
-Finalizado a configuração de elação de confiança entre as máquinas.  
+Finalizado a configuração de relação de confiança entre as máquinas.  
 Para ver as configurações vá em *atividade-linux/relacao-de-confianca*  
 # V5  
 Feito as últimas verificações na atividade desenvolvida.
