@@ -9,6 +9,6 @@ Finalizado a pesquisa dos tópicos para a aprensentação, montagem dos slides n
 ## V2.1  
 Iniciado a pesquisa sobre versionamento e relação de confiança.  
 ## V2.2  
-Iniciado o versionamento da atividade no Git/GitHub, criado os repositórios necessários e iniciado o versionamento e instalação do Linux Oracle 8.6 na VM.  
+Iniciado o versionamento da atividade no Git/GitHub, criado os repositórios necessários e iniciado o versionamento e instalação de uma VM e servidor Oracle Linux 8.6.  
 ## V2.3  
-Para ver mais sobre o processo de instalação do Linux na VM vá em *versionamento-atividade-linux/instalacao-de-uma-VM*
+Para ver mais sobre o processo de instalação de uma VM e instalação de um servidor Oracle Linux vá em *versionamento-atividade-linux/instalacao-de-uma-VM*
