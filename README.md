@@ -15,6 +15,6 @@ Finalizado a pesquisa dos tópicos para a aprensentação, montagem dos slides n
 Iniciado a pesquisa sobre versionamento e relação de confiança.
 
 ### V2.2  
-Iniciado o versionamento da atividade no Git/GitHub e iniciado o versionamento e instalação do Linux Oracle 8.6 na VMBox.
+Iniciado o versionamento da atividade no Git/GitHub, criado os repositórios necessários e iniciado o versionamento e instalação do Linux Oracle 8.6 na VMBox.
 
 ### V2.3   
