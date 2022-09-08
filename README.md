@@ -13,3 +13,7 @@ Iniciado o versionamento da atividade no Git/GitHub, criado os repositórios nec
 ## V2.3  
 Finalizado a instalação de uma VM e de um servidor Oracle Linux 8.6. E a documentação dessa instalação.  
 Para ver passo a passo deste processo vá em *atividade-linux/instalacao-do-Linux-em-uma-VM*   
+# V3  
+## V3.1  
+Iniciado a configuração de VLAN para BRIDGE na máquina virtual.  
+Para ver as configurações modificadas vá em *atividade-linux/VLAN-para-BRIGDE*
