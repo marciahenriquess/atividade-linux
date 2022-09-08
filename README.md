@@ -11,4 +11,5 @@ Iniciado a pesquisa sobre versionamento e relação de confiança.
 ## V2.2  
 Iniciado o versionamento da atividade no Git/GitHub, criado os repositórios necessários e iniciado o versionamento e instalação de uma VM e servidor Oracle Linux 8.6.  
 ## V2.3  
-Para ver mais sobre o processo de instalação de uma VM e instalação de um servidor Oracle Linux vá em *versionamento-atividade-linux/instalacao-de-uma-VM*
+Finalizado o versionamento e instalação de uma VM e servidor Oracle Linux 8.6.  
+Para ver passo a passo deste processo vá em *versionamento-atividade-linux/instalacao-de-uma-VM*  
