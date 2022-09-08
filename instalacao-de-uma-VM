@@ -1,5 +1,10 @@
-# Repositório criado com intuito de fazer a documentação explicando o processo de subir uma VM e instalar um servidor Oracle Linux na ultima versao disponivel.
+<html>
+<title>Repositório criado com intuito de fazer a documentação explicando o processo de subir uma VM e instalar um servidor Oracle Linux na ultima versao disponível.<title>
+<body>
 A máquina virtual utilizada foi a VMBox.
+A última versão disponível se trata da 8.6, visto que a 9 está em sua fase beta.
 
-#V1
+# V1
 Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
+</body>
+</html>
