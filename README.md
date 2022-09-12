@@ -21,9 +21,9 @@ Para ver as configurações vá em *atividade-linux/configuracoes-da-placa-de-re
 # V4
 Iniciado a relação de confiança entre as máquinas.  
 ## V4.1  
-Correção de  
+Criado a máquina cliente.  
 ## V4.2  
-Finalizado a configuração de relação de confiança entre as máquinas.  
-Para ver as configurações vá em *atividade-linux/relacao-de-confianca*  
+Finalizado a configuração de relação de confiança entre as máquinas via SSH.  
+Para ver as configurações vá em *atividade-linux/sshd-configuracao*  
 # V5  
-Feito as últimas verificações na atividade desenvolvida.
+Feito as últimas verificações da atividade desenvolvida.
