@@ -5,34 +5,34 @@ obs2: A última versão disponível do Linux se trata da 8.6.
 obs3: O sistema operacional se trata de um Linux em inglês sem interface gráfica.
 
 
-   Faça os seguintes downloads e instalação:
-* Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
-* Baixar a full ISO 8.6 em https://yum.oracle.com/oracle-linux-isos.html.
+   1- Faça os seguintes downloads e instalação:
+1.1- Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
+1.2- Baixar a full ISO 8.6 em https://yum.oracle.com/oracle-linux-isos.html.
 
-* Fazer a instalação da VirtualBox em sua máquina.
+1.3- Fazer a instalação da VirtualBox em sua máquina.
 
 
-   Criando a máquina virtual:
-* Ir em "New";
-* Colocar um "Name" em sua máquina virtual, escolher o "Type" como "Linux", escolher o "Version" como "Oracle (64-bit);
-* Selecionar a quantidade de memória RAM para a sua máquina virtual;
-* Criar um disco virtual;
-* Selecionar o "VHD" criando assim um disco virtual;
-* Selecionar o "Dynamically allocated" criando assim o armazenamento do seu disco de forma dinamica;
-* Selecionar a Pasta e o Tamanho da sua máquina virtual (recomendado manter as configurações).
+   2- Criando a máquina virtual:
+2.1- Ir em "New";
+2.2- Colocar um "Name" em sua máquina virtual, escolher o "Type" como "Linux", escolher o "Version" como "Oracle (64-bit);
+2.3- Selecionar a quantidade de memória RAM para a sua máquina virtual;
+2.4- Criar um disco virtual;
+2.5- Selecionar o "VHD" criando assim um disco virtual;
+2.6- Selecionar o "Dynamically allocated" criando assim o armazenamento do seu disco de forma dinamica;
+2.7- Selecionar a Pasta e o Tamanho da sua máquina virtual (recomendado manter as configurações).
 
-  Configurações necessárias: 
-* Selecionar sua máquina virtual;
-* Ir em "Settings";
-* Selecionar em "System" o "Boot Order" em 'Optical' e 'Hard Disk';
-* Selecionar em "Storage" o 'Controler: IDE' > 'Empty' > 'Optical Drive' selecionando sua imagem ISO baixada;
-* Fazer algumas alterações como o Teclado e Hora;
-* Em "Software selection" selecione "Minimal Install" para que sua m´quina venha sem interface gráfica;
-* Em "User Settings" selecione uma senha para seu usuário root;
-* Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
-* Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
+  3- Configurações necessárias: 
+3.1- Selecionar sua máquina virtual;
+3.2- Ir em "Settings";
+3.3- Selecionar em "System" o "Boot Order" em 'Optical' e 'Hard Disk';
+3.4- Selecionar em "Storage" o 'Controler: IDE' > 'Empty' > 'Optical Drive' selecionando sua imagem ISO baixada;
+3.5- Fazer algumas alterações como o Teclado e Hora;
+3.6- Em "Software selection" selecione "Minimal Install" para que sua m´quina venha sem interface gráfica;
+3.7- Em "User Settings" selecione uma senha para seu usuário root;
+3.8- Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
+3.9- Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
 
-Pronto! Agora é só entrar com seu login e senha!
+Pronto! Agora é só entrar com seu login e senha!  
 
-E não se esqueça!
- * Em seu terminal dê o comando 'yum update' para atualizar o seu sistemas e os pacotes.
+E não se esqueça!  
+Em seu terminal dê o comando 'yum update' para atualizar o seu sistemas e os pacotes.  
