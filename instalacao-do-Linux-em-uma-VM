@@ -32,5 +32,7 @@ obs3: O sistema operacional se trata de um Linux em inglês sem interface gráfi
 * Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
 * Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
 
-   E não se esqueça!
- * Dê o comando 'yum update' para atualizar o seu sistemas e os pacotes.
+Pronto! Agora é só entrar com seu login e senha!
+
+E não se esqueça!
+ * Em seu terminal dê o comando 'yum update' para atualizar o seu sistemas e os pacotes.
