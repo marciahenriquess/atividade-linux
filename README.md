@@ -24,6 +24,6 @@ Iniciado a relação de confiança entre as máquinas.
 Criado a máquina cliente.  
 ## V4.2  
 Finalizado a configuração de relação de confiança entre as máquinas via SSH.  
-Para ver as configurações vá em *atividade-linux/sshd-configuracao*  
+Para ver as configurações vá em *atividade-linux/relacao-de-confianca*  
 # V5  
 Feito as últimas verificações da atividade desenvolvida.
