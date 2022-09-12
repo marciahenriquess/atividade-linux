@@ -30,7 +30,7 @@ obs3: O sistema operacional se trata de um Linux em inglês sem interface gráfi
 3.6- Em "Software selection" selecione "Minimal Install" para que sua m´quina venha sem interface gráfica;
 3.7- Em "User Settings" selecione uma senha para seu usuário root;
 3.8- Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
-3.9- Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
+3.9- Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Done' para que as configurações do disco rígido será de maneira automática.
 
 Pronto! Agora é só entrar com seu login e senha!  
 
