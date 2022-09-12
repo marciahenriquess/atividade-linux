@@ -9,7 +9,7 @@ obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 * Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
 * Baixar a full ISO 8.6 em https://yum.oracle.com/oracle-linux-isos.html.
 
-* Fazer a instalar da VirtualBox em sua máquina.
+* Fazer a instalação da VirtualBox em sua máquina.
 
 
    V1.1
@@ -29,6 +29,8 @@ obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 * Fazer algumas alterações como o Teclado e Hora;
 * Em "Software selection" selecione "Minimal Install" para que seu SO venha sem interface gráfica;
 * Em "User Settings" selecione uma senha para seu usuário root;
+* Em "Create User" criar o login da sua máquina;
 * Em "Network & Host name" de um OK para que sua rede habilite;
+* Em "Installation definition" criar as repartições de disco;
 * Em "Installation Destination" selecione o seu 'Local Standard Disks';
 
