@@ -5,14 +5,14 @@ obs2: A última versão disponível do Linux se trata da 8.6.
 obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 
 
-   V1
+   Faça os seguintes downloads e instalação:
 * Baixar o VirtualBox em https://www.virtualbox.org/wiki/Downloads, selecionando o seu sistema operacional para a instalação.
 * Baixar a full ISO 8.6 em https://yum.oracle.com/oracle-linux-isos.html.
 
 * Fazer a instalação da VirtualBox em sua máquina.
 
 
-   V1.1
+   Criando a máquina virtual:
 * Ir em "New";
 * Colocar um "Name" em sua máquina virtual, escolher o "Type" como "Linux", escolher o "Version" como "Oracle (64-bit);
 * Selecionar a quantidade de memória RAM para a sua máquina virtual;
@@ -21,7 +21,7 @@ obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 * Selecionar o "Dynamically allocated" criando assim o armazenamento do seu disco de forma dinamica;
 * Selecionar a Pasta e o Tamanho da sua máquina virtual (recomendado manter as configurações).
 
-  V1.2  
+  Configurações necessárias: 
 * Selecionar sua máquina virtual;
 * Ir em "Settings";
 * Selecionar em "System" o "Boot Order" em 'Optical' e 'Hard Disk';
@@ -31,4 +31,7 @@ obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 * Em "User Settings" selecione uma senha para seu usuário root;
 * Em "Create User" criar o login da sua máquina;
 * Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
-* Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home';
+* Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
+
+   E não se esqueça!
+ * Dê o comando 'yum update' para atualizar o seu sistemas e os pacotes.
