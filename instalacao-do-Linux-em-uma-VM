@@ -29,7 +29,6 @@ obs3: O SO se trata de um Linux em inglês sem interface gráfica.
 * Fazer algumas alterações como o Teclado e Hora;
 * Em "Software selection" selecione "Minimal Install" para que sua m´quina venha sem interface gráfica;
 * Em "User Settings" selecione uma senha para seu usuário root;
-* Em "Create User" criar o login da sua máquina;
 * Em "Network & Host name" clique em "OFF" para que mude para "On" habilitando sua rede;
 * Em "Installation Destination" selecione o seu 'Local Standard Disks' e 'Custom' e crie as repartições de disco '/', '/boot', '/swap' e '/home'.
 
