@@ -1,5 +1,5 @@
 # Atividade do PB Compass.  
-#### Repositório criado com intuito de fazer o versionamento da atividade do PB Compass.  
+Repositório criado com intuito de fazer o versionamento da atividade do PB Compass.  
 # V1   
 Iniciado a pesquisa dos tópicos para a aprensentação e inicio da montagem dos slides no PowerPoint.  
 ## V1.1  
